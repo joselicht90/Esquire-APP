@@ -31,7 +31,7 @@ Esquire is an APP designed to be your companion on all your D&D adventures. It's
 
 #  What's next?
 
-The APP is only developed by me. That means that every new feature takes a lot of my time, wich is splited between 2 works. But my intention is to create a couple of key features to make an actual realease of the APP.
+The APP is only developed by me. That means that every new feature takes a lot of my time, wich is splited with my main work. But my intention is to create a couple of key features to make an actual realease of the APP.
 
 * Homebrew Content (classes, races and backgrounds)
 * Quick notes
