@@ -3,15 +3,13 @@
 
 # About
 
-Esquire is an APP designed to be your companion on all your D&D adventures. It's not meant to make your experience automatic (that's not fun), it's meant to be a support tool, a way to quickly get information about your character, spells, classes and much more.
+Esquire is an APP designed to be your companion on all your D&D adventures. It's not meant to make your experience automatic (that's not fun), it's meant to be a support tool, a fast and organized way to quickly get information about your character, spells, classes and much more.
 
 # Features
 
-* Guided character creation
-* Character detail
-* Classes Information
-* Races Information
-* Backgrounds Information
+* Step by step character creation
+* Clear and organised pc information
+* Classes, races, background Information
 * Spells and equipment, with the ability to create homebrew content.
 * Completely offline.
 
@@ -51,3 +49,4 @@ For the time being the code is not open source, but if i get request about this,
 If you wish to donate, you can click the button below.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=SZ7ADMFLFDM8N)
+ 
