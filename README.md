@@ -18,7 +18,6 @@ Esquire is an APP designed to be your companion on all your D&D adventures. It's
 # Screenshots
 <div>
 <img src="https://user-images.githubusercontent.com/36008070/126232003-eb2d59cc-43fa-4577-bb46-a0383145a57f.jpg" width="20%">
-<img src="https://user-images.githubusercontent.com/36008070/126232023-e455b6db-3b9d-4372-95ad-50682d96daa8.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/36008070/126232028-862a4fda-1ea2-4175-b5d9-63b03d6fcc61.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/36008070/126232034-9144d89e-a280-40ae-a63b-b5914df9616a.jpg" width="20%">
 <img src="https://user-images.githubusercontent.com/36008070/126232045-e2108da7-a453-4193-b0dc-94c2cdfe1bd0.jpg" width="20%">
